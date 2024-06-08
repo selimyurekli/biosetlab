@@ -1,0 +1,3 @@
+id,name,email,age,gender,family_history_breast_cancer,genetic_mutations,menarche_age,menopause_age,parity,breastfeeding_history,hormone_therapy_use,diet_quality,physical_activity_level,alcohol_consumption,smoking_status,bmi,mammogram_frequency,biopsy_results,cancer_stage_at_diagnosis
+6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b,**********,eyqzaoyzyitlsjjojhmsptl,45,Female,Yes,BRCA1,12,50,2,Yes,No,High,Moderate,Occasionally,Never Smoked,24,Annual,Benign,I
+d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35,**********,taqmnxhfonywcyovyrvxara,53,Female,No,BRCA2,13,48,3,No,Yes,Moderate,Low,Regularly,Former Smoker,28,Biennial,Malignant,II
